@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TeaStallManagementSystemApplication {
+public class TeaStallManagementSystemBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TeaStallManagementSystemApplication.class, args);
+		SpringApplication.run(TeaStallManagementSystemBackendApplication.class, args);
 	}
 
 }
